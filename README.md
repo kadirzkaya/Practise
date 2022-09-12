@@ -1,2 +1,2 @@
 # Practise
-(Patika Dev)[https://www.patika.dev]
+[Patika Dev](https://www.patika.dev)
