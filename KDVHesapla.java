@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FaizHesapla {
+public class KDVHesapla {
     public static void main(String[] args) {
         double oran, kdv, paraMiktarı,kdvliParaDegeri;
 
